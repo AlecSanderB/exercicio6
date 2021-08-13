@@ -1,0 +1,44 @@
+body{
+    font-family: verdana
+}
+
+table
+{
+    border: 2px outset lightgray;
+    background-color: lightgray;
+    width: 35%;
+}
+
+thead{
+    background-color:#666666;
+    color: white;
+}
+
+.pri{
+    background-color:#DDDDDD;
+    border: 2px inset;
+    width:50%;
+    text-align: left
+}
+
+.pritext{
+    text-align: center
+}
+
+.nest{
+    float: right
+}
+
+.nest tr td{
+    text-align: center;
+    border: 2px inset;
+    background-color: #CACACA;
+}
+
+tfoot{
+    background-color: #358391;
+}
+
+caption{
+    text-align: left;
+}
